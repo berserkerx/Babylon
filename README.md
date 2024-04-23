@@ -21,7 +21,7 @@ export PATH=$PATH:/usr/local/go/bin:$HOME/go/bin
 EOF
 
 source $HOME/.profile
-go version
+go version 1
 ```
 
 <h1 align="center"> Installing the node </h1>
